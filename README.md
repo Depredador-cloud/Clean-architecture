@@ -1,5 +1,5 @@
 # Clean-architecture
-# Clean Architecture and Clean Code Etiquette
+## Clean Architecture and Clean Code Etiquette
 
 ## Clean Architecture
 
