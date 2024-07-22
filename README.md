@@ -1,6 +1,4 @@
 # Clean-architecture
-Sure, here is a comprehensive Markdown document covering the full content of Clean Architecture and Clean Code etiquette:
-
 # Clean Architecture and Clean Code Etiquette
 
 ## Clean Architecture
